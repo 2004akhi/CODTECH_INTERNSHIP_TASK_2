@@ -22,5 +22,6 @@
 - **FPDF:** Python library used for library for generating PDFs
 
 ### Output 
+A simple basic grade card , advancement with effects and color variations could be done if needed.
 ![grade_card](https://github.com/user-attachments/assets/b5d9169d-df7d-4b84-8172-059f68363bb3)
 
